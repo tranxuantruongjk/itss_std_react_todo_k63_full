@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "todo-app-2eb0f"
-  }
+    "default": "todo-app-2-b7af0",
+    "staging": "todo-app-2-b7af0"
+  },
+  "targets": {}
 }
